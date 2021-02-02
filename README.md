@@ -1,4 +1,3 @@
-BlogBackup
+hexoBlog
 ==========
-
-博客备份。
+hexo博客源码
